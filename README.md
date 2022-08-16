@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2h2j3)](https://solved.ac/k2h2j3/)
 
