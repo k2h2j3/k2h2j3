@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2h2j3&layout=compact&theme=dark)
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2h2j3&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2h2j3&show_icons=true&theme=radical)
 
 
 <!--
