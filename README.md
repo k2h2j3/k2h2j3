@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2h2j3)](https://solved.ac/k2h2j3/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2h2j3&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2h2j3&layout=compact&theme=dark&count_private=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2h2j3&show_icons=true&theme=radical)
 
